@@ -1,5 +1,4 @@
-# Webteir_Using_Terraform
-Provision Application Web Teir on AWS Using Terraform
+# Build AWS Web Application Layer With Terraform | Infra-As-Code
 
 Welcome back to the series of **Deploying On AWS Cloud Using Terraform** 👨🏻‍💻. This terraform usecase is created for DevOps - Infrastructure Automation on AWS Project.
 Based on our previous learnings from last 9 blogs series we are going to create a real time basic web application teir to have some handons and understand how its implementation works in realtime.
