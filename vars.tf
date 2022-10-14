@@ -13,7 +13,7 @@ variable "autoscaling_group_max_size" {
 }
 variable "aws_key_pair" {
   type    = string
-  default = "D:/Intellipath/AWS/CustomVPC.pem"
+  default = "<Your Key Pair path>"
 }
 #-------------------------Data Block to fetch subnet ids---------------------
 data "aws_subnet_ids" "GetSubnet_Ids" {
